@@ -1,0 +1,1 @@
+# With these steps you have created a local repository and linked it to a remote Github repo as well as how to stage, commit and push your files.
