@@ -1,4 +1,4 @@
-# Commmand 2
+# Command 2
 
 ## git remote add origin 'URL'
 
